@@ -1,0 +1,157 @@
+
+body{
+    background-color: rgba(255, 213, 0, 0.52);
+  margin: 0 ;
+  padding: 0;
+    width: 100%;
+
+}
+header{
+    text-align: center;
+
+}
+.perehod{
+    background-color: rgba(51, 51, 51, 0.55);
+    overflow: hidden;
+    min-height: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.perehod ul{
+   padding: 0;
+    list-style: none;
+}
+.perehod li{
+    display: inline;
+    margin-left: 100px;
+
+}
+.perehod a{
+    min-height: 200px;
+    color: white;
+    text-decoration: none;
+    font-size: 24px;
+}
+header a:hover{
+     text-decoration: underline;
+    color: red;
+}
+h1{
+    text-align: center;
+    color: indigo;
+
+}
+em{
+    color:blue;
+}
+.r1{
+   min-height: 200px;
+    border: 0;
+    background-color: sandybrown;
+    margin: 20px 20px;
+    line-height: 1.6em;
+    padding-left: 10px;
+    padding-right: 20px;
+    text-align: justify;
+}
+.r1 img{
+    float: right;
+    width: 200px;
+    height: 170px;
+    margin: 15px 15px;
+}
+.t1{
+   min-height: auto;
+    font-size: 24px;
+    color:green;
+}
+.r2{
+     min-height: 200px;
+    border: 0;
+    background-color: sandybrown;
+    margin: 20px 20px;
+      line-height: 1.6em;
+    padding-right: 20px;
+    padding-left: 10px;
+    text-align: justify;
+}
+.r2 img{
+    float: left;
+     width: 200px;
+    height: 170px;
+margin: 15px 15px;
+}
+.r3{
+     min-height: 200px;
+    border: 0;
+      background-color: sandybrown;
+    margin: 20px 20px;
+      line-height: 1.6em;
+    padding-left: 10px;
+    padding-right: 20px;
+    text-align: justify;
+}
+.r3 img{
+    float: right;
+     width: 200px;
+    height: 170px;
+   margin: 15px 15px;
+}
+.r5{
+    min-height: 200px;
+    border: 0;
+    background-color: sandybrown;
+    margin: 20px 20px;
+    padding-right: 20px;
+    padding-left: 10px;
+    line-height: 1.6em;
+ text-align: justify;
+}
+.r5 img{
+    float: left;
+     width: 200px;
+    height: 170px;
+     margin: 15px 15px ;
+}
+p{
+   margin: 0 20px;
+    text-align: justify;
+}
+footer{
+    text-align: center;
+     background-color: #1aff00;
+    overflow: hidden;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+footer ul{
+     padding: 0;
+    list-style: none;
+}
+footer li{
+    display: inline-block;
+}
+footer a{
+    min-height: auto;
+      color: blue;
+    text-decoration: none;
+    font-size: 24px;
+}
+footer a img {
+   display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+footer a:hover{
+ border: 15px solid rebeccapurple;
+
+}
+nav p{
+
+    text-align: right;
+    color: yellow;
+    font-size: 20px;
+}
+u{
+    color: blue;
+}
